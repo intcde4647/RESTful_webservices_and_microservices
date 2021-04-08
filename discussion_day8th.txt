@@ -1,0 +1,78 @@
+The learning of the 5th day ( 7th April )
+
+* RESTful Services
+* Microservices at Micro Level
+* Introduction to Cloud Computing
+
+--------------------------------------------------------------------------
+
+Till day 4th what you learnt?
+DAY1:- Software engineering 
+DAY2:- Software Architecture and UI
+DAY3:- Mobile Computing , IOT and Security
+DAY4:- Database concepts
+DAY5:- RESTful WebServices
+--------------------------------------------------------------------------------
+What is a Web Service?
+
+Q1A web service is the way of communication between two or more
+applications developed for same or different platforms.
+
+Q2Do you think web service is facing client ( user ) directly?
+No 
+
+Q3Do you think web services are in touch with other clients ( applications )?
+Yes
+
+Q4Do you think web services are dependent on web browsers for it to be used?
+No
+
+
+Q5 Why do you think web services should be used and learnt?
+1)so that we can share resources remotely
+2) to make thing accessibel with limited resources 
+
+
+Q 6 What is the difference between web application and web service?
+Web service ====> for application to interact with each other and for
+web service another web service can be a client or a web application can be a client.
+For web service we dont have user interface or it is not user facing.
+Web application=====> Whereas web applications are user facing which means we have
+to plan for some UI so that user can interact with the application.
+
+Suppose user is planning for a holiday and user selecting the place , the dates , and the stay
+for this we can design a user interface where we have images to show the hotels, datetime picker
+to select the dates but after selection of hotel and the dates for the stay now we are planning
+to go for online payments. So the task or the functionalilty of online payment can be designed
+by creating a web service..
+---------------------------------------------------------------------------------------------------------------
+Eclipse/STS=====> IDE 
+STS (Spring Tool Suite) where you can write core java code and we can write advanced coding of Java.
+STS is meant for writing Spring related codes.
+Spring is a framework which we are going to learn is stage3 and stage4 and Spring will help in developing
+Enterprise applications.
+---------------------------------------------------------------------------------------------------------------
+https://www.tutorialspoint.com/h2_database/index.htm
+H2 database is inmemory database. So how it is different from other databases like MYSQL Oracle.
+Here whatever data with which we are working that remains only in the memory until unless specifically
+being asked to save the data in some file. 
+So it will be very easy for us to perform the CRUD ( Create , Read, Update and Delete) operations.
+Or rather easy to test CRUD operations without installing any external database server.
+------------------------------------------------------------------------------------------------------
+If we are designing RESTful WebServices and if we don't have any UI, than how we are going to test
+our RESTFul WebServices?
+ANS POSTMAN, SOAPUI 
+-----------------------------------------------------------
+
+Webservices and microservices , we should know about monolithic applications
+
+-------------------------------------------------------------------------------------------
+
+Monolithic applications are where all the artifacts are put as a single unit.  
+-------------------------------------------------------------------------
+Day6th
+Event Driven Components
+Governance and Tooling-DevOps
+Security Services
+ 
+
